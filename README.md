@@ -4,7 +4,7 @@
 
 <h2>Entre em contato:</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vasconcelos-6684a9259/) [![Linkedin](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavovasconcelosp/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vasconcelos-6684a9259/) [![Linkedin](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/gustavovasconcelosp/](https://www.instagram.com/v4sc__/?hl=pt))
 
 ![Gusta GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavasconcelos&show_icons=true&theme=transparent)
 
