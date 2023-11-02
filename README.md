@@ -33,9 +33,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img/shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
+
+<h2 align="center">Estatísticas do GitHub:</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavasconcelos&layout=compact" alt="Top Languages" align="center">
 
 <h2 align="center">Ferramentas e Práticas:</h2>
 
