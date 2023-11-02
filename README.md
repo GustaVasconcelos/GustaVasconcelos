@@ -1,24 +1,18 @@
+<h1 align="center">Olá, sou Gustavo Vasconcelos! 👋</h1>
+<h2 align="center">Desenvolvedor Full Stack | Estudante de Análise e Desenvolvimento de Sistemas 🎓</h2>
 
-<h1 align="center">Olá! Eu me chamo Gustavo Vasconcelos, aproveite meu github e conheça meus projetos😎</h1>
+<p align="center">Bem-vindo ao meu perfil! Sou um entusiasta de tecnologia e programação com 20 anos de idade, formado em Técnico de Informática e atualmente graduando em Análise e Desenvolvimento de Sistemas. 
 
+Minha paixão é criar soluções inovadoras e eficazes para desafios do mundo real. Tenho experiência tanto no desenvolvimento do front-end quanto do back-end, e estou constantemente buscando aprimorar minhas habilidades em diversas tecnologias.
 
-<h2>Entre em contato:</h2>
+Quando não estou codificando, você pode me encontrar explorando novas tecnologias, resolvendo quebra-cabeças de programação ou até mesmo tocando meu instrumento musical favorito. Adoro aprender e compartilhar conhecimentos com a comunidade de desenvolvedores.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vasconcelos-6684a9259/) 
+Se você está interessado em colaborar em projetos empolgantes ou apenas quer bater um papo sobre tecnologia, não hesite em entrar em contato. Vamos criar algo incrível juntos! 😊</p>
 
-![Gusta GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavasconcelos&show_icons=true&theme=transparent)
+<h2 align="center">Conecte-se comigo:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavasconcelos&layout=compact)](https://github.com/gustavasconcelos/github-readme-stats)
-
-<h2 align="center">As tecnologias que utilizo:</h2>
-
-<div style="display:inline_block">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT"/>
-    <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS"/>
-    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT.JS"/>
-    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PSQL"/>
-    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-vasconcelos-6684a9259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
